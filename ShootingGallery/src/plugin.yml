@@ -1,0 +1,11 @@
+main: me.x1machinemaker1x.shootinggallery.Main
+name: ShootingGallery
+version: 0.1
+author: X1machinemaker1X
+depend: [WorldEdit, Vault]
+description: Shooting Practice!
+
+commands:
+  shootinggallery:
+    default: op
+    aliases: [sg, shootingg, sgallery]

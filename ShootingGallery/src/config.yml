@@ -1,0 +1,6 @@
+RoundTimeInSeconds: 60
+MaxBlocksInArena: 10
+SpawnPointMustBeInArena: true
+CanLeaveArena: true
+BowName: '&6Shooting Gallery Gun'
+ArrowName: '&6Shooting Gallery Bullet'
