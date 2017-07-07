@@ -1,2 +1,2 @@
 # ShootingGallery
-A bukket plugin that creates shooting arenas
+A bukkit plugin that creates shooting arenas
